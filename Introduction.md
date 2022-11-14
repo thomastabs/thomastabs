@@ -1,9 +1,9 @@
  
-Hello, my name is Thomas and 
+Hello, my name is Tomas and 
 I'm studying computer science and its quite fun!
 I am still learning but I do enjoy programming a lot!!
 
-Currently I am a Ubuntu and C enjoyer, I'll
+Currently I am a Ubuntu, C, and Java enjoyer, I'll
 be posting some of my works here, I hope you enjoy :D
 
 I am currently studying at Instituto Superior Técnico,
