@@ -1,7 +1,7 @@
 # Hi there, I'm [Tomás Taborda]()! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
-[![GitHub](https://img.shields.io/github/followers/thomastabse?style=social)](https://github.com/thomastabs)
+[![GitHub](https://img.shields.io/github/followers/thomastabse?style=social&logo=github)](https://github.com/thomastabs)
 
 Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast. I love working on exciting projects and exploring new technologies.
 
@@ -27,12 +27,17 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ## 🌱 Currently Learning
 
-- 
+- Website and Web App Development
 
+#
 
 ## 📈 GitHub Stats
 
-![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&hide_title=true&hide_border=true&hide=prs,issues,contribs)
+![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
+
+#
 
 ## 📫 How to reach me
 
