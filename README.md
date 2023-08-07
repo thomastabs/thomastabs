@@ -5,7 +5,9 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast. I love working on exciting projects and exploring new technologies.
 
-## 🔧 Programming Languages and skills learned
+---
+
+### 🔧 Programming Languages and skills learned
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -19,19 +21,23 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-## 🌱 Currently Learning
+#
+
+### 🌱 Currently Learning
 
 - Website and Web App Development
 
+#
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
 
+#
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 - 📧 Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
 - 🌐 Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=100007571926646/)
