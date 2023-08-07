@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ## 🌱 Currently Learning
 
-- [Name of technology/framework/library you're learning](https://link-to-documentation-or-tutorial.com)
+- 
 
 
 ## 📈 GitHub Stats
