@@ -1,7 +1,6 @@
 # Hi there, I'm [Tomás Taborda]()! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
-[![GitHub](https://img.shields.io/github/followers/thomastabse?style=social&logo=github)](https://github.com/thomastabs)
 
 Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast. I love working on exciting projects and exploring new technologies.
 
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/c-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
