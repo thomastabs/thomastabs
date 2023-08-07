@@ -1,6 +1,6 @@
 # Hi there, I'm [Tomás Taborda](https://your-website-url.com)! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 [![GitHub](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
 
