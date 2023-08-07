@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 - Website and Web App Development
 
-#
 
 ## 📈 GitHub Stats
 
@@ -37,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
 
-#
 
 ## 📫 How to reach me
 
