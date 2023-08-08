@@ -50,6 +50,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 #
 
+<details>
+ <summary><h3>A Brief Introduction 😎 </h3></summary>
+   AAAAAAAA
+
 ### 📫 How to reach me
 
 - 📧 Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
