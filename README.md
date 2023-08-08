@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 # 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="30" height="30" />  How to reach me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="25" height="25" />  How to reach me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />  Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />  Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=370007571926646/)
