@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae_-Tomás_Taborda-red)](https://github.com/thomastabs/thomastabs/blob/main/TomasTaborda.pdf)
 
-Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast. I love working on exciting projects and exploring new technologies.
+Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico, I'm interested in Web Development and Software Development. I love working on exciting projects and exploring new technologies.
 
 ---
 
