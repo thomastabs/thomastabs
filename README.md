@@ -16,8 +16,8 @@
 
   /* Style for the individual icons */
   .language-icon {
-    width: 50px; /* You can adjust the size here */
-    margin: 10px; /* Add some spacing between the icons */
+    width: 30px; /* You can adjust the size here */
+    margin: 20px; /* Add some spacing between the icons */
   }
 </style>
 
