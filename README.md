@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 #
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="35" height="35" />  Currently Learning
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="35" height="35" />   Currently Learning
 
 - Website and Web App Development
 
