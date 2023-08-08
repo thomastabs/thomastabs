@@ -1,4 +1,4 @@
-# Hi there, I'm [Tomás Taborda]()! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+# Hi there, I'm [Tomás Taborda]()! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae_-Tomás_Taborda-red)](https://github.com/thomastabs/thomastabs/blob/main/TomasTaborda.pdf)
