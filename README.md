@@ -1,7 +1,7 @@
 # Hi there, I'm [Tomás Taborda]()! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás_Taborda-blue)](https://www.linkedin.com/in/tomás-taborda-a028a8234/)
-[![Curriculum Vitae](https://img.shields.io/badge/any_text-you_like-blue)](
+[![Curriculum Vitae](https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/thomastabs/thomastabs/blob/main/TomasTaborda.pdf)
 
 Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast. I love working on exciting projects and exploring new technologies.
 
