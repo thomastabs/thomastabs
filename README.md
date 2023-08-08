@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
  <summary><h3>A Brief Introduction 😎 </h3></summary>
    I'm a student and I am a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
 
-<p align="center" margin-top="30px">
+<p align="center" margin-top: 30px>
   <img src="lofi-girl-music.gif" alt="animated"/>
 </p>
 
