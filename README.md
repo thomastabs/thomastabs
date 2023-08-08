@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div style="display: flex; align: center; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 50px;">
     <img alt="Python" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img alt="C" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img alt="Java" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
     <img alt="SQL" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img alt="LaTeX" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 50px;">
     <img alt="Markdown" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img alt="GitHub" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alt="Bash" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
