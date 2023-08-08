@@ -46,7 +46,9 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
 
 #
 
