@@ -6,34 +6,41 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ---
 
+<style>
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+
+  .skill img {
+    width: 45px;
+  }
+
+  .skill span {
+    margin-top: 5px;
+  }
+</style>
+
 ### 🔧 Programming Languages and skills learned
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 5px;">
-    <img alt="Python" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="C" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img alt="Java" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Git" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Linux" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="HTML" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="JavaScript" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="SQL" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img alt="LaTeX" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<div class="skills-container">
+  <div class="skill">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <span>Python</span>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 5px;">
-    <img alt="Markdown" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-    <img alt="GitHub" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="Bash" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img alt="RStudio" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-    <img alt="Figma" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img alt="IntelliJ" style="margin: 5px;"width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img alt="PyCharm" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img alt="Visual Studio Code" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img alt="LinkedIn" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    <img alt="Google" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  <div class="skill">
+    <!-- Repeat the same structure for other images -->
   </div>
 </div>
 
