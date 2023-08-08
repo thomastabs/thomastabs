@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Tomas Taborda.png" alt="animated"/>
+  <img src="Tomas Taborda.png"/>
 </p>
 
 # Hi there, I'm [Tomás Taborda]()! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
