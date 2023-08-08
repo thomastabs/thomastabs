@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
     <img alt="SQL" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img alt="LaTeX" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; padding: 50px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; margin-top: 20px; padding: 50px;">
     <img alt="Markdown" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img alt="GitHub" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alt="Bash" style="margin: 5px;" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
