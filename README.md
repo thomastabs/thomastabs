@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 ---
 
 ### 🔧 Programming Languages and skills learned
-&nbsp;
 
 <div style="display: flex; margin-top:60px; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%;">
     <img alt="Python" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -37,7 +36,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 #
 
 ### 🌱 Currently Learning
-&nbsp;
 
 - Website and Web App Development
 
@@ -68,7 +66,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 &nbsp;
 
 ### 📫 How to reach me
-&nbsp;
 
 - 📧 Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
 - 🌐 Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=370007571926646/)
