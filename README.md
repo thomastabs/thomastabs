@@ -55,6 +55,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 - 📧 Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
 - 🌐 Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=370007571926646/)
 - 🐦 Twitter: [@TorradaDoMato](https://twitter.com/TorradaDoMato)
+- 📷 Instagram: [@_tomas_esteve_aqui_]((https://www.instagram.com/_tomas_esteve_aqui_/)
 
 Feel free to connect with me! I'm always open to exciting opportunities and collaborations.
 
