@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkedinheaders-desktop.png" width="900"/>
+  <img src="linkedinheaders-desktop.png" width="1100"/>
 </p>
 
 # Hi there, I'm [Tomás Taborda]()! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
