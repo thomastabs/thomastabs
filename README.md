@@ -32,9 +32,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <img align="left" alt="Google" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </div>
+
 <br />
 
-#
+---
 
 ### 🌱 Currently Learning
 
