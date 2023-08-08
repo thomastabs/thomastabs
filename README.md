@@ -53,6 +53,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 <details>
  <summary><h3>A Brief Introduction 😎 </h3></summary>
    AAAAAAAA
+</details>details>
+
+# 
 
 ### 📫 How to reach me
 
