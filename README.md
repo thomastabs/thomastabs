@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ---
 
-### 🔧 Programming Languages and skills learned
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />  Programming Languages and skills learned
 
 <div style="display: flex; margin-top:60px; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%;">
     <img alt="Python" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -36,13 +36,13 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 #
 
-### 🌱 Currently Learning
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="25" height="25" />  Currently Learning
 
 - Website and Web App Development
 
 #
 
-### 📈 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />  GitHub Stats
 
 ![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&thme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 #
 
 <details>
- <summary><h3>A Brief Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> </h3></summary>
+ <summary><h3>A Brief Introduction  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> </h3></summary>
    I'm a student and I am a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
 
 &nbsp;
@@ -67,10 +67,10 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ### 📫 How to reach me
 
-- 📧 Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
-- 🌐 Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=370007571926646/)
-- 🐦 Twitter: [@TorradaDoMato](https://twitter.com/TorradaDoMato)
-- 📷 Instagram: [@_tomas_esteve_aqui_](https://www.instagram.com/_tomas_esteve_aqui_/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />  Email: tomassantostaborda@gmail.com or tomassantostaborda@tecnico.ulisboa.pt
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />  Facebook: [Tomás Taborda](https://www.facebook.com/profile.php?id=370007571926646/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="25" height="25" />  Twitter: [@TorradaDoMato](https://twitter.com/TorradaDoMato)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" />  Instagram: [@_tomas_esteve_aqui_](https://www.instagram.com/_tomas_esteve_aqui_/)
 
 Feel free to connect with me! I'm always open to exciting opportunities and collaborations.
 
