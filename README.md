@@ -63,7 +63,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 </details>
 
 # 
-&nbsp;
 
 ### 📫 How to reach me
 
