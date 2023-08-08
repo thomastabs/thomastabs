@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />  Programming Languages and skills learned
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />  Programming Languages and skills learned
 
 <div style="display: flex; margin-top:60px; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%;">
     <img alt="Python" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
