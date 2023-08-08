@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ### 🔧 Programming Languages and skills learned
 
-<div style="display: flex; margin-top="40px" justify-content: center; align-items: center; flex-wrap: wrap; width: 50%;">
+<div style="display: flex; margin-top="60px" justify-content: center; align-items: center; flex-wrap: wrap; width: 50%;">
     <img alt="Python" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img alt="C" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img alt="Java" width="37px" margin-right="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
