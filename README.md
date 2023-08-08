@@ -44,19 +44,14 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ### 📈 GitHub Stats
 
-![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=gruvbox)
-
-<p align="center">
-  <img src="demo.gif" alt="animated" />
-</p>
+![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&thme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
 
 #
 
 <details>
  <summary><h3>A Brief Introduction 😎 </h3></summary>
    I'm a student and I am a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
-    
-![lofi-girl-music](https://github.com/thomastabs/thomastabs/assets/104148995/484fe74c-6725-46c4-b009-250c82c8663a)
 
 </details>
 
