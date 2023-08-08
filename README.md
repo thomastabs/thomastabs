@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 &nbsp;
 
 <p align="center">
-  <img src="lofi-girl-music.gif" alt="animated"/>
+  <img src="lofi-girl-music.gif" alt="animated" width:"1100"/>
 </p>
 
 </details>
