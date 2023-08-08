@@ -37,8 +37,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
   </div>
 </div>
 
-<br />
-
 #
 
 ### 🌱 Currently Learning
