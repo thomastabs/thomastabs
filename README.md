@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 #
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />  GitHub Stats
 
 ![Tomas Taborda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&thme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thomastabs&theme=gruvbox&border_radius=4.5)
