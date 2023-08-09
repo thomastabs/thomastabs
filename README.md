@@ -48,7 +48,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />  GitHub Stats
 
-&nbsp;
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=dark)
 
