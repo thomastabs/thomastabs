@@ -51,7 +51,6 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=dark)
 
 &nbsp;
-&nbsp;
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomastabs&theme=dark)](https://git.io/streak-stats)
 
