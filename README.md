@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 &nbsp;
 &nbsp;
 
-![GitHub Streak](https://img.shields.io/github/contributors/thomastabs?label=Streak&style=flat-square)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomastabs&theme=dark)](https://git.io/streak-stats)
 
 #
 
