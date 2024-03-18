@@ -8,7 +8,7 @@
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae_-Tomás_Taborda-red)](https://github.com/thomastabs/thomastabs/blob/main/TomasTaborda.pdf)
 [![GitHub Followers](https://img.shields.io/github/followers/thomastabs?label=Followers&style=social)](https://github.com/thomastabs)
 
-Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico, I'm interested in Web Development and Software Development. I love working on exciting projects and exploring new technologies.
+Welcome to my GitHub profile! I'm a 3rd year Telecomunications and Informatics Student at Instituto Superior Técnico, I'm interested in Web Development and Software Development. I love working on exciting projects and exploring new technologies.
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a 2nd year Telecomunications and Informatics S
 #
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> A Brief Introduction  
-   I'm a student and I am a 2nd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
+   I'm a student and I am a 3rd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
 
 &nbsp;
 &nbsp;
