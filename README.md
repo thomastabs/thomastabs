@@ -51,8 +51,9 @@ Welcome to my GitHub profile! I have a Bachelor's Degree in Telecomunications an
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thomastabs&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://github.com/thomastabs/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomastabs&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
 #
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> A Brief Introduction  
