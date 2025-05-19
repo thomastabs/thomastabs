@@ -49,12 +49,13 @@ Welcome to my GitHub profile! I have a Bachelor's Degree in Telecomunications an
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />  GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=dark)
+<a href="https://github.com/thomastabs/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomastabs&show_icons=true&theme=dark" />
+</a>
 
 <a href="https://github.com/thomastabs/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomastabs&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
-#
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> A Brief Introduction  
    I'm a student and I am a 3rd year Telecomunications and Informatics Student at Instituto Superior Técnico. I have experience with many programming languages such as Python, C, Java and Assembly. I don't possess any work experience yet but I want to learn, to be better and to help who needs. I consider myself to be carismatic and curious who tries to do everything in his power to do any jobs at hand. I'm persistent, resilient and I want always to be the best version of myserlf. As everyone else, I have flaws, but I strive to be better everyday and to be a better person as well. I’m currently seeking for a Summer Internship for self improvement and discovery, if you know any suitable opportunity, feel free to contact me.
