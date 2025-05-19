@@ -56,6 +56,8 @@ Welcome to my GitHub profile! I have a Bachelor's Degree in Telecomunications an
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomastabs&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
+#
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> A Brief Introduction  
 
    I'm a student and I have a Bachelor's Degree in Telecomunications and Informatics Engineering and I'm currently pursuing a Master's Degree in Computer Science and Engineering at Instituto Superior Técnico. 
