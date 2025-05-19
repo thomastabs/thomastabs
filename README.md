@@ -8,7 +8,7 @@
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae_-Tomás_Taborda-red)](https://github.com/thomastabs/thomastabs/blob/main/TomasTaborda.pdf)
 [![GitHub Followers](https://img.shields.io/github/followers/thomastabs?label=Followers&style=social)](https://github.com/thomastabs)
 
-Welcome to my GitHub profile! I'm a 3rd year Telecomunications and Informatics Student at Instituto Superior Técnico, I'm interested in Web Development and Software Development. I love working on exciting projects and exploring new technologies.
+Welcome to my GitHub profile! I have a Bachelor's Degree in Telecomunications and Informatics Engineering Student at Instituto Superior Técnico and I'm currently pursuing a Master's Degree in Computer Science and Engineering. I'm interested in Web Development and Software Development. I love working on exciting projects and exploring new technologies!
 
 ---
 
